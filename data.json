@@ -1,0 +1,19 @@
+{
+    "morning": {
+        "req": ["good morning", "gd morning", "morning", "ගුඩ් මෝනිං", "bad morning", "good morning have a nice day", "wonderfull morning"],
+        "res": ["Good morning", "Gm, Have a nice day!", "I hope you have a ridiculously amazing day!", "Wishing you a peaceful day!"]
+    },
+    "night": {
+        "req": ["good night", "gn"],
+        "res": ["Gn"]
+    },
+    "mk": {
+        "req": ["mk", "mokada karanawa", "karanawa mokada", "moko karanne", "wadada", "wadakda"],
+        "res": ["Hasi nam na wadaka [Mama BOT]", "Mokuth na ohe innawa", "Mokuth na"]
+    },
+    "hi": {
+        "req": ["hi"],
+        "res": ["Hi ;)", "Hey :/", "Hello!"]
+    }
+
+}

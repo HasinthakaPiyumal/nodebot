@@ -4,14 +4,14 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node index.js old"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
     "license": "ISC",
     "dependencies": {
         "@adiwajshing/baileys": "^3.5.2",
         "chalk": "^4.1.2",
-        "fs": "0.0.1-security"
+        "fs": "0.0.1-security",
+        "readline-sync": "^1.4.10"
     }
 }
