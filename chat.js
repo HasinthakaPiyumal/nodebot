@@ -1,6 +1,6 @@
 const tokenise = require('./nlp')
 
-num = ['94710442946@s.whatsapp.net', '94761650864@s.whatsapp.net', '94769876712@s.whatsapp.net', '94763215389@s.whatsapp.net']
+num = ['94776502092@s.whatsapp.net','94710442946@s.whatsapp.net', '94761650864@s.whatsapp.net', '94769876712@s.whatsapp.net', '94763215389@s.whatsapp.net']
 
 const fs = require('fs');
 
